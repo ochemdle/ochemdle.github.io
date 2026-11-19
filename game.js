@@ -324,7 +324,7 @@ function revealFinalTally(rarity, score) {
 async function shareDailyResult() {
     if (!currentShareResult || unlimitedMode) return;
     const score = currentShareResult.score;
-    const text = `OChemdle ${today}\n${normalizeCompoundName(currentShareResult.item.name)} · ${currentShareResult.item.formula}\n${currentShareResult.level} · ${score.toLocaleString()} points`;
+    const text = `OChemdle ${today}\n${normalizeCompoundName(currentShareResult.item.name)} · ${currentShareResult.item.formula}\n${currentShareResult.level} · ${score.toLocaleString()} points · https://chemdle.github.io/`;
     try {
         if (navigator.share) {
             await navigator.share({ title: "Chemdle", text });
