@@ -1,3 +1,3 @@
-# Chemdle
+# OChemdle
 
-Chemdle is a static daily/unlimited chemical hazard RNG game.
+OChemdle is a static daily/unlimited chemical hazard RNG game.
