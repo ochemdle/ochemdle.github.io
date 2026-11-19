@@ -1,0 +1,6023 @@
+[
+  {
+    "name": "Water",
+    "formula": "H2O",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 962,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/962",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/962#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethanol",
+    "formula": "C2H6O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 702,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/702",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/702#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetone",
+    "formula": "C3H6O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 180,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/180",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/180#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzene",
+    "formula": "C6H6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 241,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/241",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/241#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Toluene",
+    "formula": "C7H8",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 1140,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1140",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1140#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Formaldehyde",
+    "formula": "CH2O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Highly flammable",
+      "Fatal if inhaled",
+      "Acute toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Mutagen",
+      "Carcinogen",
+      "Aquatic hazard",
+      "Skin irritation",
+      "Eye irritation",
+      "Organ toxicity",
+      "Combustible"
+    ],
+    "cid": 712,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/712",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/712#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetaldehyde",
+    "formula": "C2H4O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 177,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/177",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/177#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetic Acid",
+    "formula": "C2H4O2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Highly flammable",
+      "Eye irritation",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity"
+    ],
+    "cid": 176,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/176",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/176#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium Chloride",
+    "formula": "NaCl",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 5234,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5234",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5234#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sulfuric Acid",
+    "formula": "H2SO4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 1118,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1118",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1118#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrochloric Acid",
+    "formula": "HCl",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 313,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/313",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/313#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitric Acid",
+    "formula": "HNO3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Oxidizer",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 944,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/944",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/944#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ammonia",
+    "formula": "NH3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Corrosive",
+      "Acute toxicity",
+      "Respiratory irritation"
+    ],
+    "cid": 222,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/222",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/222#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen Peroxide",
+    "formula": "H2O2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 784,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/784",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/784#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "formula": "NaOH",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 14798,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14798",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14798#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium Hydroxide",
+    "formula": "KOH",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 14797,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14797",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14797#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methanol",
+    "formula": "CH4O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 887,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/887",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/887#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Isopropanol",
+    "formula": "C3H8O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Corrosive",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 3776,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3776",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3776#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Propanol",
+    "formula": "C3H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 1031,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1031",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1031#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Butanol",
+    "formula": "C4H10O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 263,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/263",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/263#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethylene Glycol",
+    "formula": "C2H6O2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 174,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/174",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/174#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Glycerol",
+    "formula": "C3H8O3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 753,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/753",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/753#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dichloromethane",
+    "formula": "CH2Cl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 6344,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6344",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6344#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chloroform",
+    "formula": "CHCl3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 6212,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6212",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6212#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbon Tetrachloride",
+    "formula": "CCl4",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 5943,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5943",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5943#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Trichloroethylene",
+    "formula": "C2HCl3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 6575,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6575",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6575#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Tetrachloroethylene",
+    "formula": "C2Cl4",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 31373,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31373",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31373#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hexane",
+    "formula": "C6H14",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 8058,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8058",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8058#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyclohexane",
+    "formula": "C6H12",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 8078,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8078",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8078#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Heptane",
+    "formula": "C7H16",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 8900,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8900",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8900#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Octane",
+    "formula": "C8H18",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 356,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/356",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/356#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phenol",
+    "formula": "C6H6O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 996,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/996",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/996#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aniline",
+    "formula": "C6H7N",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 6115,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6115",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6115#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Pyridine",
+    "formula": "C5H5N",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 1049,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1049",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1049#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Naphthalene",
+    "formula": "C10H8",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 931,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/931",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/931#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Anthracene",
+    "formula": "C14H10",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 8418,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8418",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8418#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetonitrile",
+    "formula": "C2H3N",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Corrosive",
+      "Highly flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 6342,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6342",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6342#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dimethyl Sulfoxide",
+    "formula": "C2H6OS",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Combustible"
+    ],
+    "cid": 679,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/679",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/679#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dimethylformamide",
+    "formula": "C3H7NO",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 6228,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6228",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6228#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethyl Acetate",
+    "formula": "C4H8O2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 8857,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8857",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8857#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Diethyl Ether",
+    "formula": "C4H10O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 3283,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3283",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3283#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Tetrahydrofuran",
+    "formula": "C4H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 8028,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8028",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8028#section=Safety-and-Hazards"
+  },
+  {
+    "name": "2-Butanone",
+    "formula": "C4H8O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 6569,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6569",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6569#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl Isobutyl Ketone",
+    "formula": "C6H12O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Aspiration hazard",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 7909,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7909",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7909#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzaldehyde",
+    "formula": "C7H6O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 240,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/240",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/240#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzoic Acid",
+    "formula": "C7H6O2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 243,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/243",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/243#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Oxalic Acid",
+    "formula": "C2H2O4",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 971,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/971",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/971#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Citric Acid",
+    "formula": "C6H8O7",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 311,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/311",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/311#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Tartaric Acid",
+    "formula": "C4H6O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 444305,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/444305",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/444305#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lactic Acid",
+    "formula": "C3H6O3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 612,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/612",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/612#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ascorbic Acid",
+    "formula": "C6H8O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 54670067,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetylsalicylic Acid",
+    "formula": "C9H8O4",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 2244,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2244",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2244#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Caffeine",
+    "formula": "C8H10N4O2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 2519,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2519",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2519#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Glucose",
+    "formula": "C6H12O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 5793,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5793",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5793#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sucrose",
+    "formula": "C12H22O11",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 5988,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5988",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5988#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Fructose",
+    "formula": "C6H12O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 2723872,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Urea",
+    "formula": "CH4N2O",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 1176,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1176",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1176#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyanamide",
+    "formula": "CH2N2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 9864,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9864",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9864#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyanogen Bromide",
+    "formula": "CBrN",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 10476,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10476",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10476#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium Cyanide",
+    "formula": "NaCN",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 8929,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8929",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8929#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium Cyanide",
+    "formula": "KCN",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 9032,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9032",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9032#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen Cyanide",
+    "formula": "CHN",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 768,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/768",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/768#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbon Monoxide",
+    "formula": "CO",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Highly flammable",
+      "Acute toxicity",
+      "Combustible"
+    ],
+    "cid": 281,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/281",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/281#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbon Dioxide",
+    "formula": "CO2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity"
+    ],
+    "cid": 280,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/280",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/280#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chlorine",
+    "formula": "Cl2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24526,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24526",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24526#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Bromine",
+    "formula": "Br2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24408,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24408",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24408#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Iodine",
+    "formula": "I2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 807,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/807",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/807#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ozone",
+    "formula": "O3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 24823,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24823",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24823#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Arsine",
+    "formula": "AsH3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Organ toxicity",
+      "Highly flammable",
+      "Acute toxicity",
+      "Aquatic hazard",
+      "Combustible"
+    ],
+    "cid": 23969,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23969",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23969#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phosphine",
+    "formula": "H3P",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 24404,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24404",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24404#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phosgene",
+    "formula": "CCl2O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6371,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6371",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6371#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Diphosgene",
+    "formula": "C2Cl4O2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Skin corrosion",
+      "Acute toxicity",
+      "Skin irritation"
+    ],
+    "cid": 10426,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10426",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10426#section=Safety-and-Hazards"
+  },
+  {
+    "name": "White Phosphorus",
+    "formula": "P",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Skin corrosion",
+      "Flammable",
+      "Acute toxicity",
+      "Aquatic hazard",
+      "Skin irritation",
+      "Combustible"
+    ],
+    "cid": 5462309,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5462309",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5462309#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium Azide",
+    "formula": "NaN3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 33557,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/33557",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/33557#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrazine",
+    "formula": "H4N2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Highly flammable",
+      "Fatal",
+      "Fatal if inhaled",
+      "Acute toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 9321,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9321",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9321#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methylhydrazine",
+    "formula": "CH6N2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 6061,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6061",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6061#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitroglycerin",
+    "formula": "C3H5N3O9",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 4510,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4510",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4510#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Trinitrotoluene",
+    "formula": "C7H5N3O6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 8376,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8376",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8376#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Picric Acid",
+    "formula": "C6H3N3O7",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Combustible"
+    ],
+    "cid": 6954,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6954",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6954#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Peracetic Acid",
+    "formula": "C2H4O3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 6585,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6585",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6585#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chromic Acid",
+    "formula": "CrH2O4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 24425,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24425",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24425#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chromium Trioxide",
+    "formula": "CrO3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 14915,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14915",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14915#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium Dichromate",
+    "formula": "Cr2K2O7",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 24502,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24502",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24502#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium Permanganate",
+    "formula": "KMnO4",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Skin irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 516875,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516875",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516875#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Mercury",
+    "formula": "Hg",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 23931,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23931",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23931#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Mercuric Chloride",
+    "formula": "HgCl2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 24085,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24085",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24085#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dimethylmercury",
+    "formula": "HgC2H6",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Highly flammable",
+      "Acute toxicity",
+      "Combustible"
+    ],
+    "cid": 11645,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11645",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11645#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cadmium Chloride",
+    "formula": "CdCl2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 24947,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24947",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24947#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Arsenic Trioxide",
+    "formula": "As2O3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 14888,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14888",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14888#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nickel tetracarbonyl",
+    "formula": "NiC4O4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation",
+      "Acute toxicity"
+    ],
+    "cid": 26039,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26039",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26039#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl Isocyanate",
+    "formula": "C2H3NO",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Skin irritation",
+      "Acute toxicity"
+    ],
+    "cid": 12228,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12228",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12228#section=Safety-and-Hazards"
+  },
+  {
+    "name": "DDT",
+    "formula": "C14H9Cl5",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 3036,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3036",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3036#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Glyphosate",
+    "formula": "C3H8NO5P",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 3496,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3496",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3496#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Paraquat",
+    "formula": "C12H14N2+2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "cid": 15939,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15939",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15939#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Malathion",
+    "formula": "C10H19O6PS2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 4004,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4004",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4004#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Atrazine",
+    "formula": "C8H14ClN5",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 2256,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2256",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2256#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium Hypochlorite",
+    "formula": "NaClO",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 23665760,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23665760",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23665760#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium Nitrate",
+    "formula": "KNO3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Skin irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24434,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24434",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24434#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ammonium nitrate",
+    "formula": "H4N2O3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Skin irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 22985,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/22985",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/22985#section=Safety-and-Hazards"
+  },
+  {
+    "name": "VX",
+    "formula": "C11H26NO2PS",
+    "rarity": "Mythic",
+    "weight": 0.03,
+    "hazards": [
+      "Fatal",
+      "Fatal if inhaled",
+      "Neurotoxin",
+      "Organ toxicity",
+      "Acute toxicity",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Corrosive",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard",
+      "Aspiration hazard"
+    ],
+    "cid": 39793,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/39793",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/39793#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitrogen",
+    "formula": "N2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 947,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/947",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/947#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Oxygen",
+    "formula": "O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Oxidizer",
+      "Respiratory irritation"
+    ],
+    "cid": 977,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/977",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/977#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Argon",
+    "formula": "Ar",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23968,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23968",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23968#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Neon",
+    "formula": "Ne",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23935,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23935",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23935#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Helium",
+    "formula": "He",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23987,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23987",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23987#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Krypton",
+    "formula": "Kr",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 5416,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5416",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5416#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Xenon",
+    "formula": "Xe",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23991,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23991",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23991#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Radon",
+    "formula": "Rn",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 24857,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24857",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24857#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sulfur dioxide",
+    "formula": "O2S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 1119,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1119",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1119#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sulfur trioxide",
+    "formula": "O3S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24682,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24682",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24682#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen sulfide",
+    "formula": "H2S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 402,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/402",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/402#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen fluoride",
+    "formula": "FH",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 14917,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14917",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14917#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen chloride",
+    "formula": "ClH",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 313,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/313",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/313#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen bromide",
+    "formula": "BrH",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 260,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/260",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/260#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydrogen iodide",
+    "formula": "HI",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 24841,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24841",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24841#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "formula": "NaHCO3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 516892,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516892",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516892#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium carbonate",
+    "formula": "CaCO3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 10112,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10112",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10112#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Magnesium carbonate",
+    "formula": "MgCO3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 11029,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11029",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11029#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium carbonate",
+    "formula": "K2CO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 11430,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11430",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11430#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium sulfate",
+    "formula": "Na2O4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 24436,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24436",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24436#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium nitrate",
+    "formula": "NaNO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24268,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24268",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24268#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ammonium sulfate",
+    "formula": "H8N2O4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6097028,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6097028",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6097028#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ammonium chloride",
+    "formula": "ClH4N",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 25517,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25517",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25517#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium chloride",
+    "formula": "KCl",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 4873,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4873",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4873#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium chloride",
+    "formula": "CaCl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 5284359,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5284359",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5284359#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Magnesium chloride",
+    "formula": "MgCl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 5360315,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5360315",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5360315#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Copper sulfate",
+    "formula": "CuO4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24462,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24462",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24462#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Copper chloride",
+    "formula": "CuCl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24014,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24014",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24014#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Zinc sulfate",
+    "formula": "ZnO4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24424,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24424",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24424#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Zinc chloride",
+    "formula": "ZnCl2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 5727,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5727",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5727#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ferric chloride",
+    "formula": "FeCl3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24380,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24380",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24380#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ferrous sulfate",
+    "formula": "FeO4S",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24393,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24393",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24393#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aluminum sulfate",
+    "formula": "Al2O12S3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Eye irritation"
+    ],
+    "cid": 24850,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24850",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24850#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aluminum chloride",
+    "formula": "AlCl3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24012,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24012",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24012#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium carbonate",
+    "formula": "Na2CO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 10340,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10340",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10340#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium phosphate",
+    "formula": "NaO4P-2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 21225609,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/21225609",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/21225609#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium phosphate",
+    "formula": "KH2O4P",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 516951,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516951",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516951#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium hydroxide",
+    "formula": "CaH2O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6093208,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6093208",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6093208#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Magnesium hydroxide",
+    "formula": "MgH2O2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 73981,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/73981",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/73981#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium silicate",
+    "formula": "Na2O3Si",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 23266,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23266",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23266#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Silicon dioxide",
+    "formula": "O2Si",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 24261,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24261",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24261#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Titanium dioxide",
+    "formula": "O2Ti",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 26042,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26042",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26042#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Iron oxide",
+    "formula": "FeO2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 123289,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/123289",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/123289#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aluminum oxide",
+    "formula": "Al2O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 9989226,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9989226",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9989226#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Copper oxide",
+    "formula": "CuO",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 14829,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14829",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14829#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Zinc oxide",
+    "formula": "ZnO",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 3007857,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3007857",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3007857#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium oxide",
+    "formula": "CaO",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 14778,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14778",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14778#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Magnesium oxide",
+    "formula": "MgO",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 14792,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14792",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/14792#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Barium sulfate",
+    "formula": "BaO4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 24414,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24414",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24414#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lithium carbonate",
+    "formula": "Li2CO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 11125,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11125",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11125#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium acetate",
+    "formula": "NaC2H3O2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 31372,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31372",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31372#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium acetate",
+    "formula": "KC2H3O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 517044,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/517044",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/517044#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium acetate",
+    "formula": "CaC4H6O4",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6116,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6116",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6116#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium citrate",
+    "formula": "Na3C6H5O7",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6224,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6224",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6224#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Magnesium citrate",
+    "formula": "Mg3C12H10O14",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6099959,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6099959",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6099959#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium oxalate",
+    "formula": "Na2C2O4",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6125,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6125",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6125#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium oxalate",
+    "formula": "K2C2O4",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 11413,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11413",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11413#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium tartrate",
+    "formula": "Na2C4H4O6",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Acute toxicity"
+    ],
+    "cid": 162637,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/162637",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/162637#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium tartrate",
+    "formula": "K2C4H4O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 8984,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8984",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8984#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium lactate",
+    "formula": "NaC3H5O3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23666456,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23666456",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23666456#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium benzoate",
+    "formula": "NaC7H5O2",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 517055,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/517055",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/517055#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium sorbate",
+    "formula": "KC6H7O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23676745,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23676745",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23676745#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium saccharin",
+    "formula": "NaC7H4NO3S",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 656582,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/656582",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/656582#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Monosodium glutamate",
+    "formula": "NaC5H10NO5",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 23689119,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23689119",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23689119#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propylene glycol",
+    "formula": "C3H8O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity"
+    ],
+    "cid": 1030,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1030",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1030#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sorbitol",
+    "formula": "C6H14O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 5780,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5780",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5780#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Mannitol",
+    "formula": "C6H14O6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6251,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6251",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6251#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Xylitol",
+    "formula": "C5H12O5",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6912,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6912",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6912#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Maltose",
+    "formula": "C12H22O11",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 439186,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/439186",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/439186#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lactose",
+    "formula": "C12H22O11",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6134,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6134",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6134#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dextrin",
+    "formula": "C18H32O16",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 62698,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62698",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62698#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethylene",
+    "formula": "C2H4",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable",
+      "Aquatic hazard"
+    ],
+    "cid": 6325,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6325",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6325#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propylene",
+    "formula": "C3H6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable",
+      "Aquatic hazard"
+    ],
+    "cid": 8252,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8252",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8252#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Isobutylene",
+    "formula": "C4H8",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable"
+    ],
+    "cid": 8255,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8255",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8255#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Pentanol",
+    "formula": "C5H12O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6276,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6276",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6276#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Hexanol",
+    "formula": "C6H14O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 8103,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8103",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8103#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Heptanol",
+    "formula": "C7H16O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 8129,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8129",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8129#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Octanol",
+    "formula": "C8H18O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 957,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/957",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/957#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyclohexanol",
+    "formula": "C6H12O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7966,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7966",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7966#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Catechol",
+    "formula": "C6H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 289,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/289",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/289#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Resorcinol",
+    "formula": "C6H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 5054,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5054",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5054#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Hydroquinone",
+    "formula": "C6H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 785,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/785",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/785#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Pyrogallol",
+    "formula": "C6H6O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 1057,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1057",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1057#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzyl alcohol",
+    "formula": "C7H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 244,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/244",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/244#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cinnamyl alcohol",
+    "formula": "C9H10O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 5315892,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5315892",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5315892#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Vanillin",
+    "formula": "C8H8O3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 1183,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1183",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1183#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cinnamaldehyde",
+    "formula": "C9H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 637511,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/637511",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/637511#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Eugenol",
+    "formula": "C10H12O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 3314,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3314",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3314#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Linalool",
+    "formula": "C10H18O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6549,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6549",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6549#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Menthol",
+    "formula": "C10H20O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 1254,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1254",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1254#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Thymol",
+    "formula": "C10H14O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6989,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6989",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6989#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Camphor",
+    "formula": "C10H16O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 2537,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2537",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2537#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Citral",
+    "formula": "C10H16O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 638011,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/638011",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/638011#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Limonene",
+    "formula": "C10H16",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 22311,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/22311",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/22311#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Pinene",
+    "formula": "C10H16",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 15837102,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15837102",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15837102#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Geraniol",
+    "formula": "C10H18O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 637566,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/637566",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/637566#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Borneol",
+    "formula": "C10H18O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Flammable"
+    ],
+    "cid": 64685,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/64685",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/64685#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyclohexanone",
+    "formula": "C6H10O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7967,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7967",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7967#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cyclopentanone",
+    "formula": "C5H8O",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 8452,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8452",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8452#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetophenone",
+    "formula": "C8H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7410,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7410",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7410#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzophenone",
+    "formula": "C13H10O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 3102,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3102",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3102#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl acetate",
+    "formula": "C3H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 6584,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6584",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6584#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propyl acetate",
+    "formula": "C5H10O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7997,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7997",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7997#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Butyl acetate",
+    "formula": "C6H12O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 31272,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31272",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31272#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Isopropyl acetate",
+    "formula": "C5H10O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7915,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7915",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7915#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Vinyl acetate",
+    "formula": "C4H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7904,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7904",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7904#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl acrylate",
+    "formula": "C4H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7294,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7294",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7294#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethyl acrylate",
+    "formula": "C5H8O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 8821,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8821",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8821#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acrylic acid",
+    "formula": "C3H4O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6581,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6581",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6581#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methacrylic acid",
+    "formula": "C4H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 4093,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4093",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4093#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl methacrylate",
+    "formula": "C5H8O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6658,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6658",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6658#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Styrene",
+    "formula": "C8H8",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7501,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7501",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7501#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acrylonitrile",
+    "formula": "C3H3N",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7855,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7855",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7855#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Vinyl chloride",
+    "formula": "C2H3Cl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6338,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6338",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6338#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Vinylidene chloride",
+    "formula": "C2H2Cl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6366,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6366",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6366#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propionaldehyde",
+    "formula": "C3H6O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 527,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/527",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/527#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Butyraldehyde",
+    "formula": "C4H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 261,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/261",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/261#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Furfural",
+    "formula": "C5H4O2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7362,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7362",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7362#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Crotonaldehyde",
+    "formula": "C4H6O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 447466,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/447466",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/447466#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Glyoxal",
+    "formula": "C2H2O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7860,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7860",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7860#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Diacetyl",
+    "formula": "C4H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 650,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/650",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/650#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methylglyoxal",
+    "formula": "C3H4O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 880,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/880",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/880#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dimethyl ether",
+    "formula": "C2H6O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable"
+    ],
+    "cid": 8254,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8254",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8254#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Methyl tert-butyl ether",
+    "formula": "C5H12O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 15413,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15413",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15413#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Anisole",
+    "formula": "C7H8O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7519,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7519",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7519#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dioxane",
+    "formula": "C4H8O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 31275,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31275",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31275#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethylene oxide",
+    "formula": "C2H4O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard",
+      "Explosive"
+    ],
+    "cid": 6354,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6354",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6354#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propylene oxide",
+    "formula": "C3H6O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6378,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6378",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6378#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Epichlorohydrin",
+    "formula": "C3H5ClO",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7835,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7835",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7835#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dimethyl carbonate",
+    "formula": "C3H6O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Highly flammable"
+    ],
+    "cid": 12021,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12021",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12021#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethylene carbonate",
+    "formula": "C3H4O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7303,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7303",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7303#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Propylene carbonate",
+    "formula": "C4H6O3",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Eye irritation"
+    ],
+    "cid": 7924,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7924",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7924#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzonitrile",
+    "formula": "C7H5N",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7505,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7505",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7505#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Adiponitrile",
+    "formula": "C6H8N2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 8128,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8128",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/8128#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitromethane",
+    "formula": "CH3NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6375,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6375",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6375#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitrobenzene",
+    "formula": "C6H5NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7416,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7416",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7416#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nitroethane",
+    "formula": "C2H5NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6587,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6587",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6587#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Nitropropane",
+    "formula": "C3H7NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 7903,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7903",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7903#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ethylbenzene",
+    "formula": "C8H10",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7500,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7500",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7500#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cumene",
+    "formula": "C9H12",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7406,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7406",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7406#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phenanthrene",
+    "formula": "C14H10",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 995,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/995",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/995#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Biphenyl",
+    "formula": "C12H10",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7095,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7095",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7095#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Fluorene",
+    "formula": "C13H10",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Aquatic hazard"
+    ],
+    "cid": 6853,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6853",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6853#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chrysene",
+    "formula": "C18H12",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Aquatic hazard"
+    ],
+    "cid": 9171,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9171",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9171#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Pyrene",
+    "formula": "C16H10",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 31423,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31423",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/31423#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Fluorobenzene",
+    "formula": "C6H5F",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Highly flammable",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 10008,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10008",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10008#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chlorobenzene",
+    "formula": "C6H5Cl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7964,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7964",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7964#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Bromobenzene",
+    "formula": "C6H5Br",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Flammable",
+      "Acute toxicity",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7961,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7961",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7961#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Iodobenzene",
+    "formula": "C6H5I",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 11575,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11575",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11575#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1,2-Dichlorobenzene",
+    "formula": "C6H4Cl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7239,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7239",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7239#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1,3-Dichlorobenzene",
+    "formula": "C6H4Cl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 10943,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10943",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10943#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1,4-Dichlorobenzene",
+    "formula": "C6H4Cl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 4685,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4685",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4685#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1,2-Dibromoethane",
+    "formula": "C2H4Br2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7839,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7839",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7839#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dibromomethane",
+    "formula": "CH2Br2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 3024,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3024",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3024#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Bromochloromethane",
+    "formula": "CH2BrCl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 6333,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6333",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6333#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Vinyl bromide",
+    "formula": "C2H3Br",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 11641,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11641",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11641#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Allyl chloride",
+    "formula": "C3H5Cl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7850,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7850",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7850#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzyl chloride",
+    "formula": "C7H7Cl",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7503,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7503",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7503#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzyl bromide",
+    "formula": "C7H7Br",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 7498,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7498",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7498#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Bromopropane",
+    "formula": "C3H7Br",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 7840,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7840",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/7840#section=Safety-and-Hazards"
+  },
+  {
+    "name": "1-Chloropropane",
+    "formula": "C3H7Cl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable",
+      "Acute toxicity"
+    ],
+    "cid": 10899,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10899",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10899#section=Safety-and-Hazards"
+  },
+  {
+    "name": "2-Chloropropane",
+    "formula": "C3H7Cl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Highly flammable",
+      "Acute toxicity"
+    ],
+    "cid": 6361,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6361",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6361#section=Safety-and-Hazards"
+  },
+  {
+    "name": "tert-Butyl chloride",
+    "formula": "C4H9Cl",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Highly flammable"
+    ],
+    "cid": 10486,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10486",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10486#section=Safety-and-Hazards"
+  },
+  {
+    "name": "tert-Butyl bromide",
+    "formula": "C4H9Br",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Highly flammable"
+    ],
+    "cid": 10485,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10485",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10485#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbon disulfide",
+    "formula": "CS2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6348,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6348",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6348#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sulfuryl chloride",
+    "formula": "Cl2O2S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 24648,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24648",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24648#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Thionyl chloride",
+    "formula": "Cl2OS",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24386,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24386",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24386#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phosphorus trichloride",
+    "formula": "Cl3P",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 24387,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24387",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24387#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phosphorus pentachloride",
+    "formula": "Cl5P",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 24819,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24819",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24819#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phosphorus oxychloride",
+    "formula": "Cl3OP",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 24813,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24813",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24813#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Boron trifluoride",
+    "formula": "BF3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 6356,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6356",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6356#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Boron trichloride",
+    "formula": "BCl3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation"
+    ],
+    "cid": 25135,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25135",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25135#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Borane",
+    "formula": "BH3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 6331,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6331",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6331#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Diborane",
+    "formula": "B2H6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 12544637,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12544637",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/12544637#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Silane",
+    "formula": "H4Si",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 23953,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23953",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23953#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Silicon tetrachloride",
+    "formula": "Cl4Si",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 24816,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24816",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24816#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Germane",
+    "formula": "GeH4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 23984,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23984",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/23984#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Arsenic trichloride",
+    "formula": "AsCl3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24570,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24570",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24570#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Antimony trichloride",
+    "formula": "Cl3Sb",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24814,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24814",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24814#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Selenium dioxide",
+    "formula": "O2Se",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24007,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24007",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24007#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Tellurium dioxide",
+    "formula": "O2Te",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 62638,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62638",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62638#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Stannous chloride",
+    "formula": "Cl2Sn",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24479,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24479",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24479#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Stannic chloride",
+    "formula": "Cl4Sn",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24287,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24287",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24287#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium ferricyanide",
+    "formula": "FeC6K3N6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 26250,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26250",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26250#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium ferrocyanide",
+    "formula": "FeC6K4N6",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Aquatic hazard"
+    ],
+    "cid": 9605257,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9605257",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9605257#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium chromate",
+    "formula": "Na2CrO4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24488,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24488",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24488#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium dichromate",
+    "formula": "Cr2Na2O7",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 25408,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25408",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25408#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nickel chloride",
+    "formula": "NiCl2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Acute toxicity",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24385,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24385",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24385#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nickel sulfate",
+    "formula": "NiO4S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Acute toxicity",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24586,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24586",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24586#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Zinc nitrate",
+    "formula": "ZnN2O6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24518,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24518",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24518#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Silver nitrate",
+    "formula": "AgNO3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24470,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24470",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24470#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Silver chloride",
+    "formula": "AgCl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Respiratory irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24561,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24561",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24561#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lead nitrate",
+    "formula": "PbN2O6",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Oxidizer",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24924,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24924",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24924#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cadmium sulfate",
+    "formula": "CdO4S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 24962,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24962",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24962#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Mercury sulfide",
+    "formula": "HgS",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 10220267,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10220267",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/10220267#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Thimerosal",
+    "formula": "HgC9H9NaO2S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 16684434,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16684434",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16684434#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium arsenite",
+    "formula": "NaAsO2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 443495,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/443495",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/443495#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Antimony potassium tartrate",
+    "formula": "K2C8H10O15Sb2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 73415808,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/73415808",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/73415808#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Beryllium sulfate",
+    "formula": "BeO4S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 26077,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26077",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/26077#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cesium chloride",
+    "formula": "CsCl",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity"
+    ],
+    "cid": 24293,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24293",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/24293#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lithium hydroxide",
+    "formula": "LiOH",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 3939,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3939",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3939#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Rubidium hydroxide",
+    "formula": "RbOH",
+    "rarity": "Rare",
+    "weight": 4,
+    "hazards": [
+      "Skin corrosion",
+      "Acute toxicity"
+    ],
+    "cid": 62393,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62393",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/62393#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Strontium chloride",
+    "formula": "SrCl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 5362485,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5362485",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5362485#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Barium chloride",
+    "formula": "BaCl2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 25204,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25204",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/25204#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aluminum phosphide",
+    "formula": "AlP",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 16126812,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16126812",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16126812#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Calcium cyanide",
+    "formula": "CaC2N2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6093192,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6093192",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6093192#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sodium thiocyanate",
+    "formula": "NaSCN",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 516871,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516871",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516871#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Potassium thiocyanate",
+    "formula": "KSCN",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 516872,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516872",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/516872#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ammonium thiocyanate",
+    "formula": "CH4N2S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 15666,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15666",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/15666#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Thiourea",
+    "formula": "CH4N2S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 2723790,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2723790",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2723790#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Guanidine",
+    "formula": "CH5N3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Highly flammable",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 3520,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3520",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3520#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Creatine",
+    "formula": "C4H9N3O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 586,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/586",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/586#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Creatinine",
+    "formula": "C4H7N3O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 588,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/588",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/588#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Allantoin",
+    "formula": "C4H6N4O3",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 204,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/204",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/204#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Histamine",
+    "formula": "C5H9N3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 774,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/774",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/774#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Dopamine",
+    "formula": "C8H11NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 681,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/681",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/681#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Serotonin",
+    "formula": "C10H12N2O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 5202,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5202",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5202#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Melatonin",
+    "formula": "C13H16N2O2",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 896,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/896",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/896#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Insulin",
+    "formula": "C256H381N65O77S6",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 70678557,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/70678557",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/70678557#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Nicotine",
+    "formula": "C10H14N2",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 89594,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/89594",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/89594#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Theobromine",
+    "formula": "C7H8N4O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 5429,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5429",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5429#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Theophylline",
+    "formula": "C7H8N4O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 2153,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2153",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2153#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Atropine",
+    "formula": "C17H23NO3",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 174174,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/174174",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/174174#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Cocaine",
+    "formula": "C17H21NO4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Acute toxicity"
+    ],
+    "cid": 446220,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/446220",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/446220#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Morphine",
+    "formula": "C17H19NO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 5288826,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5288826",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5288826#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Codeine",
+    "formula": "C18H21NO3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation"
+    ],
+    "cid": 5284371,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5284371",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5284371#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Fentanyl",
+    "formula": "C22H28N2O",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Reproductive toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 3345,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3345",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3345#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Lidocaine",
+    "formula": "C14H22N2O",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 3676,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3676",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3676#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Procaine",
+    "formula": "C13H20N2O2",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Acute toxicity"
+    ],
+    "cid": 4914,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4914",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4914#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Benzocaine",
+    "formula": "C9H11NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 2337,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2337",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2337#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Epinephrine",
+    "formula": "C9H13NO3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Acute toxicity"
+    ],
+    "cid": 5816,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5816",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5816#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Acetaminophen",
+    "formula": "C8H9NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Mutagen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 1983,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/1983#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ibuprofen",
+    "formula": "C13H18O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 3672,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3672",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3672#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Naproxen",
+    "formula": "C14H14O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 156391,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/156391",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/156391#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Diclofenac",
+    "formula": "C14H11Cl2NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 3033,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3033",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/3033#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Salicylic acid",
+    "formula": "C7H6O3",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 338,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/338",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/338#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Penicillin",
+    "formula": "C16H18N2O4S",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 2349,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2349",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2349#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Streptomycin",
+    "formula": "C21H39N7O12",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Reproductive toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 19649,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/19649",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/19649#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Tetracycline",
+    "formula": "C22H24N2O8",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 54675776,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54675776",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54675776#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Doxycycline",
+    "formula": "C22H24N2O8",
+    "rarity": "Common",
+    "weight": 16,
+    "hazards": [
+      "No known hazards"
+    ],
+    "cid": 54671203,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54671203",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54671203#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "formula": "C17H18FN3O3",
+    "rarity": "Uncommon",
+    "weight": 8,
+    "hazards": [
+      "Aquatic hazard"
+    ],
+    "cid": 2764,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2764",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2764#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Chloramphenicol",
+    "formula": "C11H12Cl2N2O5",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 5959,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5959",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5959#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Sulfanilamide",
+    "formula": "C6H8N2O2S",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation"
+    ],
+    "cid": 5333,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5333",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/5333#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Phenacetin",
+    "formula": "C10H13NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 4754,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4754",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/4754#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Warfarin",
+    "formula": "C19H16O4",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 54678486,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54678486",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/54678486#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Coumarin",
+    "formula": "C9H6O2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Organ toxicity",
+      "Acute toxicity"
+    ],
+    "cid": 323,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/323",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/323#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Rotenone",
+    "formula": "C23H22O6",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Respiratory irritation",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6758,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6758",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6758#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Aldicarb",
+    "formula": "C7H14N2O2S",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 9570071,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9570071",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/9570071#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbaryl",
+    "formula": "C12H11NO2",
+    "rarity": "Epic",
+    "weight": 2,
+    "hazards": [
+      "Carcinogen",
+      "Organ toxicity",
+      "Skin corrosion",
+      "Serious eye damage",
+      "Acute toxicity",
+      "Eye irritation",
+      "Skin irritation",
+      "Aquatic hazard"
+    ],
+    "cid": 6129,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6129",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/6129#section=Safety-and-Hazards"
+  },
+  {
+    "name": "Carbofuran",
+    "formula": "C12H15NO3",
+    "rarity": "Mythic",
+    "weight": 0.8,
+    "hazards": [
+      "Fatal if inhaled",
+      "Fatal",
+      "Mutagen",
+      "Reproductive toxicity",
+      "Organ toxicity",
+      "Acute toxicity",
+      "Aquatic hazard"
+    ],
+    "cid": 2566,
+    "pubchemUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2566",
+    "safetyUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/2566#section=Safety-and-Hazards"
+  }
+]
